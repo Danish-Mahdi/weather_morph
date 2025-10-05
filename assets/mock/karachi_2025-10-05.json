@@ -1,0 +1,19 @@
+{
+  "location": {"name":"Karachi, PK","lat":24.8607,"lon":67.0011},
+  "date": "2025-10-05",
+  "window": {"startHour":8,"endHour":12},
+  "climatology": {"rainProb": 0.42, "p50IntensityMmHr": 0.8, "p90IntensityMmHr": 6.1},
+  "forecast": {"available": true, "rainProb": 0.55, "model": "GEOS-FP", "issued": "2025-10-04T06:00:00Z"},
+  "cloudiness": 0.62,
+  "heatRisk": "Moderate",
+  "readinessIndex": "CAUTION",
+  "rationale": [
+    "Monsoon tail with elevated humidity",
+    "Forecast aligns with wet climatology for this week"
+  ],
+  "datasetAttributions": [
+    {"name":"GPM IMERG","link":"https://gpm.nasa.gov/data"},
+    {"name":"MERRA-2","link":"https://gmao.gsfc.nasa.gov/reanalysis/MERRA-2/"},
+    {"name":"GEOS-FP","link":"https://gmao.gsfc.nasa.gov/GEOS_systems/GEOS-FP/"}
+  ]
+}

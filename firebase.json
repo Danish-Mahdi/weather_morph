@@ -1,0 +1,38 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "geofence-e5141",
+          "appId": "1:592309591142:android:66ae2f840fdad833b1e1a7",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "web": {
+        "default": {
+          "projectId": "geofence-e5141",
+          "appId": "1:592309591142:web:f3488257e97f6be1b1e1a7",
+          "options": {
+            "apiKey": "AIzaSyDo1Av53N0DJih3qfcpPtsh5AkKYYgF_WY",
+            "authDomain": "geofence-e5141.firebaseapp.com",
+            "databaseURL": "https://geofence-e5141-default-rtdb.firebaseio.com",
+            "storageBucket": "geofence-e5141.appspot.com",
+            "messagingSenderId": "592309591142",
+            "measurementId": "G-6N4W7VVJGB"
+          },
+          "fileOutput": "lib/firebase_options.dart"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "geofence-e5141",
+          "configurations": {
+            "android": "1:592309591142:android:66ae2f840fdad833b1e1a7",
+            "ios": "1:592309591142:ios:02ba8dafa57ba50cb1e1a7",
+            "web": "1:592309591142:web:f3488257e97f6be1b1e1a7"
+          }
+        }
+      }
+    }
+  }
+}
